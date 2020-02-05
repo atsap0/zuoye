@@ -1,0 +1,6 @@
+cd..
+cd source
+cd repos
+cd zuoye2
+cl 1.c
+pause
